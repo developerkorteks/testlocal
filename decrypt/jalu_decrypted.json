@@ -1,5 +1,5 @@
 {
     "type": "VMESS",
     "name": "jalu",
-    "encryptedLockedConfig": 123
+    "encryptedLockedConfig": "DECRYPTION_FAILED_PARSE"
 }

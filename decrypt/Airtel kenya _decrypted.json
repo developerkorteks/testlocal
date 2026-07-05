@@ -1,5 +1,5 @@
 {
     "type": "VLESS",
     "name": "TRUE High-Speed 2.0",
-    "encryptedLockedConfig": 123
+    "encryptedLockedConfig": "DECRYPTION_FAILED_PARSE"
 }

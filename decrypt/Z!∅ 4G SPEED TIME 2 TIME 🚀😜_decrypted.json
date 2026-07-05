@@ -1,11 +1,11 @@
 {
     "type": "SSH",
-    "name": "Z!\u2205 4G SPEED TIME 2 TIME \ud83d\ude80\ud83d\ude1c",
+    "name": "Z!∅ 4G SPEED TIME 2 TIME 🚀😜",
     "sshTunnelConfig": {
         "injectConfig": {
             "enabled": true,
             "mode": "PROXY_SNI"
         }
     },
-    "encryptedLockedConfig": 123
+    "encryptedLockedConfig": "DECRYPTION_FAILED_PARSE"
 }

@@ -1,10 +1,10 @@
 {
     "type": "SSH",
-    "name": "\ud83c\uddf5\ud83c\uddf0Jazz FR Unlimited NEW FAST\u2708\ufe0f\ud83d\udca5",
+    "name": "🇵🇰Jazz FR Unlimited NEW FAST✈️💥",
     "sshTunnelConfig": {
         "injectConfig": {
             "enabled": true
         }
     },
-    "encryptedLockedConfig": 123
+    "encryptedLockedConfig": "DECRYPTION_FAILED_PARSE"
 }

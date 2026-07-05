@@ -6,5 +6,5 @@
             "enabled": true
         }
     },
-    "encryptedLockedConfig": 123
+    "encryptedLockedConfig": "DECRYPTION_FAILED_PARSE"
 }
