@@ -1,0 +1,10 @@
+{
+    "type": "TROJAN",
+    "name": "Youtube \ud83c\uddfa\ud83c\uddf8",
+    "trojanTunnelConfig": {
+        "v2rayConfig": {
+            "transportNetwork": "Websocket"
+        }
+    },
+    "encryptedLockedConfig": 123
+}

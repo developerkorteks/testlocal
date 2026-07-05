@@ -1,0 +1,10 @@
+{
+    "type": "VLESS",
+    "name": "\ud835\udc9a\ud835\udc90\ud835\udc96\ud835\udc95\ud835\udc96\ud835\udc83\ud835\udc86 \ud835\udc90\ud835\udc90\ud835\udc93\ud835\udc86\ud835\udc85\ud835\udc90\ud835\udc90..\ud83c\uddf3\ud83c\uddf1",
+    "vlessTunnelConfig": {
+        "injectConfig": {
+            "mode": "PROXY"
+        }
+    },
+    "encryptedLockedConfig": 123
+}

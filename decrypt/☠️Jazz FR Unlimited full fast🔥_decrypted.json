@@ -1,0 +1,10 @@
+{
+    "type": "SSH",
+    "name": "\u2620\ufe0fJazz FR Unlimited full fast\ud83d\udd25",
+    "sshTunnelConfig": {
+        "injectConfig": {
+            "enabled": true
+        }
+    },
+    "encryptedLockedConfig": 123
+}

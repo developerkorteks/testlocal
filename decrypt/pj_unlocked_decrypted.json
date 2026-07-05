@@ -1,0 +1,14 @@
+{
+    "type": "TROJAN",
+    "name": "Youtube \ud83c\uddfa\ud83c\uddf8",
+    "trojanTunnelConfig": {
+        "v2rayConfig": {
+            "host": "ncmrsa-al-in-f20.1e100.net",
+            "uuid": "fadi",
+            "serverNameIndication": "youtube.com",
+            "wsPath": "/fadi",
+            "wsHeaderHost": "qwiklabs-gcp-00-c3ec41274974.uc.r.appspot.com"
+        }
+    },
+    "encryptedLockedConfig": ""
+}

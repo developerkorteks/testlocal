@@ -1,0 +1,13 @@
+{
+    "type": "VMESS",
+    "name": "snapchat ooredoo \u26a1",
+    "vmessTunnelConfig": {
+        "v2rayConfig": {
+            "transportNetwork": "Tcp"
+        },
+        "injectConfig": {
+            "mode": "PROXY"
+        }
+    },
+    "encryptedLockedConfig": 123
+}

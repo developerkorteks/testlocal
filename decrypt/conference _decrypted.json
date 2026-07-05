@@ -1,0 +1,11 @@
+{
+    "type": "SSH",
+    "name": "conference ",
+    "sshTunnelConfig": {
+        "injectConfig": {
+            "enabled": true,
+            "mode": "PROXY"
+        }
+    },
+    "encryptedLockedConfig": 123
+}

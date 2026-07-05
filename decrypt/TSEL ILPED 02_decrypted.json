@@ -1,0 +1,11 @@
+{
+    "type": "SSH",
+    "name": "TSEL ILPED 02",
+    "sshTunnelConfig": {
+        "injectConfig": {
+            "enabled": true,
+            "mode": "PROXY_SNI"
+        }
+    },
+    "encryptedLockedConfig": 123
+}

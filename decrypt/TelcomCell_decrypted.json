@@ -1,0 +1,10 @@
+{
+    "type": "VLESS",
+    "name": "Kurdo vps Loop uk",
+    "vlessTunnelConfig": {
+        "v2rayConfig": {
+            "mux": true
+        }
+    },
+    "encryptedLockedConfig": 123
+}

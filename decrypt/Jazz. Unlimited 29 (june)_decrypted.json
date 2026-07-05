@@ -1,0 +1,10 @@
+{
+    "type": "SSH",
+    "name": "Jazz. Unlimited 29 (june)",
+    "sshTunnelConfig": {
+        "injectConfig": {
+            "enabled": true
+        }
+    },
+    "encryptedLockedConfig": 123
+}

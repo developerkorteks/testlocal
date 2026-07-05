@@ -1,0 +1,23 @@
+{
+    "type": "SSH",
+    "name": "\ud83d\udd25\ud83d\udc99YouTube \ud83c\udde8\ud83c\udde6",
+    "sshTunnelConfig": {
+        "sshConfig": {
+            "port": 22,
+            "host": "OV-Italy1.09vpn.com",
+            "username": "u5444632391",
+            "password": "amine2026"
+        },
+        "injectConfig": {
+            "mode": "PROXY",
+            "proxyHost": "34.43.46.91",
+            "proxyPort": 443,
+            "payload": "CONNECT [host_port] [protocol][crlf]Host: youtube.com[crlf][crlf]",
+            "dnsttDnsHost": "1.1.1.1",
+            "dnsttDnsPort": 53,
+            "dnsttServerName": "",
+            "dnsttPubkey": ""
+        }
+    },
+    "encryptedLockedConfig": ""
+}
